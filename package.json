@@ -1,6 +1,7 @@
 {
   "name": "interactive-tic-tac-toe",
   "version": "0.1.0",
+  "homepage": "https://franciscosierra1915.github.io/interactive-tic-tac-toe/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
